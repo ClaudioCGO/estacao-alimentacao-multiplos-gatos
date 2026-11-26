@@ -146,8 +146,4 @@ O arquivo `relatorio.txt` guarda, por sessão: gato, código RFID, início e fim
 
 ## Como citar
 
-OLIVEIRA, Cláudio Cordeiro Gonçalves de. *Desenvolvimento e análise de um sistema automatizado de alimentação para múltiplos gatos: firmware*. GitHub, 2026. Disponível em: https://github.com/[usuario]/[repositorio]. Acesso em: [data].
-
-## Licença
-
-[Escolha uma licença, por exemplo MIT, ou remova esta seção.]
+OLIVEIRA, Cláudio Cordeiro Gonçalves de. *Desenvolvimento e análise de um sistema automatizado de alimentação para múltiplos gatos: firmware*. GitHub, 2026. Disponível em: https://github.com/claudioCGO/estacao-alimentacao-multiplos-gatos. Acesso em: [data].
